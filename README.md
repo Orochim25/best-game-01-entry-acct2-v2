@@ -2,7 +2,7 @@
 
 [![best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01)
 [![rank](https://make.fun/badge/best-game-01/Orochim25/best-game-01-entry-acct2-v2/rank.svg)](https://make.fun/bounty/best-game-01)
-[![reward](https://make.fun/badge/best-game-01/reward.svg)](https://make.fun/bounty/best-game-01)
+[![reward](https://make.fun/badge/best-game-01/Orochim25/best-game-01-entry-acct2-v2/reward.svg)](https://make.fun/bounty/best-game-01)
 
 An original 2D tower-defence game, entered in [make.fun's best-game-01 bounty](https://make.fun/bounty/best-game-01).
 
